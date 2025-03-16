@@ -1,6 +1,6 @@
 # Meteor Imperial Addon
 
-A Meteor Addon I Made For Fun
+IMPERIALS ON TOP!
 
 ## Features :
 
