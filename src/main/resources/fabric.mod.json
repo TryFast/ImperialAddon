@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "imperialaddon",
+  "version": "v1.1.0",
+  "name": "ImperialAddon",
+  "description": "Hail To The Imperial's!",
+  "authors": [
+    "TryFastv16"
+  ],
+  "contributors": [
+    "wantedbyDev",
+    "Sefa401"
+  ],
+  "contact": {
+    "repo": "https://github.com/TryFast/ImperialAddon"
+  },
+  "icon": "assets/template/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "meteor": [
+      "com.khan.imperialaddon.ImperialAddon"
+    ]
+  },
+  "mixins": [
+    "addon-template.mixins.json"
+  ],
+  "custom": {
+    "meteor-client:color": "225,25,25"
+  },
+  "depends": {
+    "java": ">=21",
+    "minecraft": ["${mc_version}"],
+    "meteor-client": "*"
+  }
+}
