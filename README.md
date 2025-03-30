@@ -12,6 +12,8 @@ A Meteor Addon I Made For Fun
 
 *Imp Y | The Heart Of The Imperials!
 
+*Imperial Chat | Cryptography between imps!
+
 ## Requires :
 
 -Meteor Client 1.21.4
